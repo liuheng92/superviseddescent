@@ -151,6 +151,10 @@ Testing and prediction work analogous.
 
 For the documented full working example, see `examples/landmark_detection.cpp`.
 
+## Build the training examples
+[blog](http://blog.csdn.net/liuxiaoheng1992/article/details/62043892)
+
+
 ## Build the examples and tests
 
 Building of the examples and tests requires CMake>=2.8.11, OpenCV (core, imgproc, highgui, objdetect) and Boost (system, filesystem, program_options).
